@@ -1,0 +1,8 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+A full list of my publications is available on [Google scholar](https://scholar.google.com/citations?user=vaMb5cAAAAAJ&hl=it).
+

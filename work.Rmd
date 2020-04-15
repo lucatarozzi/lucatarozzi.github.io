@@ -1,0 +1,6 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+I am a Ph.D. Mechanical Engineer. Since 2007 I am responsible for R&D activities at Bettati antincendio srl (https://www.bettatiantincendio.com) located in Reggio Emilia (Italy). My relevant activities have been focused in the development, testing and certification of fire suppression componts (e.g. container valve for gas suppression system, spray nozzle for watermist system) and in audit activities related to FPC, ISO9001 and PED certifications. I have also experience in firefighting system design according to european and international standards and I have been appointed as expert at UNI and CEN committee for standardization. During the doctorate I have gained an experience in applied physics with particular reference to heat transfer and the development of experimental tests and data acquisition campaign. I am author of more than 20 publications at an international or national level. 
